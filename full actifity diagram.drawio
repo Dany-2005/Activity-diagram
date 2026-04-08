@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Halaman-1" id="l6zlXrkS-dIrWtoVH2LG">
-    <mxGraphModel dx="5253" dy="3440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4020" dy="3320" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1072,7 +1072,7 @@
           <mxGeometry height="30" width="220" x="1958" y="1320" as="geometry" />
         </mxCell>
         <mxCell id="4S8CdBYWWdHp9ExioMQU-778" connectable="0" parent="1" style="group;strokeColor=light-dark(transparent,#FF0B0B);fillColor=light-dark(transparent,#FF1CF2);" value="Z" vertex="1">
-          <mxGeometry height="590" width="510" x="2590" y="1430" as="geometry" />
+          <mxGeometry height="590" width="510" x="2590" y="1370" as="geometry" />
         </mxCell>
         <mxCell id="4S8CdBYWWdHp9ExioMQU-779" parent="4S8CdBYWWdHp9ExioMQU-778" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#FF0505);" value="" vertex="1">
           <mxGeometry height="590" width="290" x="-30" as="geometry" />
@@ -1215,7 +1215,7 @@
           <mxGeometry height="48.6" width="197.5" x="282.5" y="324" as="geometry" />
         </mxCell>
         <mxCell id="4S8CdBYWWdHp9ExioMQU-814" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="melihat laporan pejualan" vertex="1">
-          <mxGeometry height="30" width="220" x="2718" y="1370" as="geometry" />
+          <mxGeometry height="30" width="220" x="2718" y="1310" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
